@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // Relative base path for GitHub Pages compatibility
+  base: '/Electronics-Service-near-Unnao/', // Changed base path for specific GitHub repo
 })
